@@ -17,13 +17,7 @@
     <input type="text" name="username" placeholder="Enter name">
     <input type="password" name="pwd" placeholder="Enter password">
 
-
-
-
-
     <input type="submit" value="submit" >
-
-
 
 </form>
 
